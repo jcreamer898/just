@@ -50,5 +50,8 @@
     "mock-fs": "^4.13.0",
     "typescript": "~4.1.3",
     "esbuild": "^0.9.6"
+  },
+  "peerDependencies": {
+    "webpack-cli": "^4"
   }
 }
